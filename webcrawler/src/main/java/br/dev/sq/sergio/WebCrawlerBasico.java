@@ -39,7 +39,7 @@ public class WebCrawlerBasico {
 	
 	public static void main(String[] args) {
 		// 
-		new WebCrawlerBasico().getPageLinks("https://www.ibge.gov.br/");
+		new WebCrawlerBasico().getPageLinks("https://www.gigalink.com.br/");
 	}
 
 }
